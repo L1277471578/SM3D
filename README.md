@@ -12,5 +12,4 @@ We will release the code and weights soon!
 This table compares the performance of different 3D point cloud architectures on ModelNet40 and ScanObjectNN datasets. Our SM3D achieves state-of-the-art results with:
 - 🏆96.0% accuracy on ModelNet40 (with voting)
 - 93.27% on hardest PB_T50_RS variant
-- Maintains low computational cost (3.95G FLOPs)
 ﻿
